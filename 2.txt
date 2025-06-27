@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Changes done on Dev1
 Have a look
-
+=======
+This is second file 
+Changes done by Developer 2
+Checked and merged
